@@ -1,0 +1,71 @@
+[
+	{
+		"name":"channel 1",
+		"shows": [
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/Ojamajo Doremi"
+			},
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/Soul Eater"
+			},
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/Hidamari Sketch"
+			},
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/Medarot"
+			},
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/Yuru Camp"
+			},
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/Tamako Market"
+			},
+			{
+				"chance":1000,
+				"path":"/media/calcium/TV/SteinsGate"
+			}
+		],
+		"commercials":[
+			{
+				"chance":10,
+				"path":"/media/calcium/11e03456-4e1a-4d56-837e-d2d2adf92e66/torrents/japanese-commercial-packs-2005"
+			}
+		],
+		"commercial_time":180
+	},
+	{
+		"name":"channel 2",
+		"shows":[
+			{
+				"chance":10,
+				"path":"/media/calcium/TV/Planetes/season 1"
+			},
+			{
+				"chance":10,
+				"path":"/media/calcium/TV/Dennou Coil/season 1"
+			},
+			{
+				"chance":10,
+				"path":"/media/calcium/TV/CYBERSIX/season 1"
+			},
+			{
+				"chance":10,
+				"path":"/media/calcium/TV/Ranma"
+			}
+		],
+		"commercials":[
+			{
+				"chance":10,
+				"path":"/media/calcium/TV/commercials/games/pc"
+			}
+		],
+		"commercial_time":180
+
+	}
+]
